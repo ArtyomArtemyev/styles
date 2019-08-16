@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Neo Tech Alt;
+    src: url("https://portal-frontend-service-nfaas-portal-dev.openshift.netcracker.cloud/assets/themes/base/fonts/NotoSans-Regular.ttf");
+}
+
+.form-wrapper {
+    font-family: Neo Tech Alt;
+}
+
+.form__success-button {
+    background: #719E19;
+    box-shadow: inset 0px -2px 0px #597F14;
+    border-radius: 4px;
+    font-family: Neo Tech Alt;
+}
+
+.text-title {
+    font-family: Neo Tech Alt;
+}
+
+.text-title-big {
+    font-family: Neo Tech Alt;
+}
+
+.wrapper-layout {
+    font-family: Neo Tech Alt;
+}
+
+.form__button-text {
+    font-family: Neo Tech Alt;
+}
+
+.login__button {
+    background: #719E19;
+    box-shadow: inset 0px -2px 0px #597F14;
+    border-radius: 4px;
+    font-family: Neo Tech Alt;
+}
+
+
